@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUStzVoY/WcUS+6dqPpFqwiEVE3uyhgWQttcJZIGspeyWwXJ1eHDBzfy7yhrVTvoMouyf01T4duYXxJsgexkHQ==",
+  "dgSpecHash": "odBG3BAnDAlwFWfVJPFatsF4M7lOJkgKhf/fAqpW5w4XsOKV9oXKZEMZy0JlDxgXxmqCO5uqfoBHBhJqw6HYvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Projeto2\\Projeto2.API\\Projeto2.API.csproj",
+  "projectFilePath": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Git\\Mentoria-Projeto-2\\Projeto2.API\\Projeto2.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco.marques\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.11\\microsoft.aspnetcore.authentication.jwtbearer.7.0.11.nupkg.sha512",
     "C:\\Users\\marco.marques\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",

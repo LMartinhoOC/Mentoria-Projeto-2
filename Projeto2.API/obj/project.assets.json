@@ -880,11 +880,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Projeto2\\Projeto2.API\\Projeto2.API.csproj",
+      "projectUniqueName": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Git\\Mentoria-Projeto-2\\Projeto2.API\\Projeto2.API.csproj",
       "projectName": "Projeto2.API",
-      "projectPath": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Projeto2\\Projeto2.API\\Projeto2.API.csproj",
+      "projectPath": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Git\\Mentoria-Projeto-2\\Projeto2.API\\Projeto2.API.csproj",
       "packagesPath": "C:\\Users\\marco.marques\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Projeto2\\Projeto2.API\\obj\\",
+      "outputPath": "C:\\Users\\marco.marques\\Desktop\\Mentoria\\Projetos\\Projeto2_Luiz\\Git\\Mentoria-Projeto-2\\Projeto2.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
